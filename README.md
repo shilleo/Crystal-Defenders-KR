@@ -1,6 +1,6 @@
 # Crystal-Defenders-KR
 
-게임명 :  Crystal Defenders
+게임명 :  クリスタル ガーディアンズ
 
 제작자 :  번역: 클로드 기술, 이미지: MINGS 검수 및 기타:본인
 
