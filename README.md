@@ -40,4 +40,10 @@ PSP 크리스탈 디펜더스의 한글패치입니다.
 
 2026/06/14: 이미지 한글화, 지역 상관 없이 한글 출력되도록 변경
 
+스크린샷:
+
+<img width="960" height="544" alt="260611_1943_13" src="https://github.com/user-attachments/assets/58ad95ee-f317-4a80-bbf0-c076cbc5bd91" />
+<img width="960" height="544" alt="260611_1943_24" src="https://github.com/user-attachments/assets/b3a3cfb9-b7a6-4985-acdf-3306b3161608" />
+
+
 ​
